@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/robk1819" target="blank"><img src="https://img.shields.io/twitter/follow/robk1819?logo=twitter&style=for-the-badge" alt="robk1819" /></a> </p>
 
 - 📫 How to reach me **imrobin1819@gmail.com**
+- To know more about me, visit https://www.imrobinsingh.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

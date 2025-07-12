@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anidec25&style=flat-square&color=4EA8DE" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/aniruddha95/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:maniruddha25@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=imrobin2498&style=flat-square&color=4EA8DE" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/robinsingh-datascientist/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:imrobin1819@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <br/>
@@ -16,7 +16,7 @@
 
 ## 💼 Professional Summary
 
-I'm a **Data Scientist** and **AI Educator** with expertise in building intelligent systems that solve complex business problems.
+I'm a **Data Scientist** with expertise in building intelligent systems that solve complex business problems.
 
 ```python
 class DataScientist:
@@ -280,10 +280,10 @@ while continuous_learning:
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aniruddha95/">
+  <a href="https://www.linkedin.com/in/robinsingh-datascientist/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:maniruddha25@gmail.com">
+  <a href="mailto:imrobin1819@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://public.tableau.com/app/profile/aniruddha.mukherjee3332">

@@ -21,14 +21,11 @@ I'm a **Data Scientist** with expertise in building intelligent systems that sol
 ```python
 class DataScientist:
     def __init__(self):
-        self.name = "Aniruddha Mukherjee"
+        self.name = "Robin Singh"
         self.role = "Data Scientist | ML Engineer"
         self.languages = ["Python", "SQL", "R"]
         self.specialties = ["NLP", "LLMs", "Computer Vision", "Deep Learning"]
         self.current_focus = "Building and fine-tuning Large Language Models"
-        
-    def educate(self):
-        return "Teaching data science to 100+ aspiring professionals at Scaler Academy"
         
     def solve_problems(self, data):
         insights = self.analyze(data)
@@ -269,7 +266,7 @@ while continuous_learning:
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/anidec25">
+  <a href="https://github.com/imrobin2498">
     <img height="180em" width="32%" src="https://github-readme-stats.vercel.app/api?username=anidec25&show_icons=true&theme=radical&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF&hide_border=true&count_private=true&include_all_commits=true" alt="Aniruddha's GitHub Stats"/>
     <img height="180em" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=anidec25&theme=radical&background=0D1117&ring=58A6FF&fire=F8D866&currStreakLabel=FFFFFF&hide_border=true" alt="Aniruddha's GitHub Streak"/>
     <img height="180em" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anidec25&layout=compact&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&hide_border=true&langs_count=8&exclude_repo=private-repo" alt="Top Languages"/>
